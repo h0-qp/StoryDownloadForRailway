@@ -6,7 +6,6 @@ kurigram
 user-agent
 youtube-search
 tgcrypto
-redis
 uvloop
 pyromod
 python-dotenv
