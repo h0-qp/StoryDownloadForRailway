@@ -5,8 +5,6 @@ from pyrogram import Client, filters ,enums,idle
 from pyrogram.types import InlineKeyboardMarkup as mk, InlineKeyboardButton as btn
 from pyrogram.errors import FloodWait
 from pyromod import listen 
-from redisdb import Redisdb
-import redis
 from sqldb import db
 db.autocommit = True
 import config
